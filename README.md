@@ -56,4 +56,4 @@ If you'd like to contribute to this collection of essential Sass partials, feel 
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code in your own projects.
+This project is licensed under the [MIT License](LICENSE.txt). Feel free to use, modify, and distribute the code in your own projects.
