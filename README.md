@@ -19,7 +19,7 @@ This repository contains a collection of essential Sass partials that you can us
 To use these Sass partials in your project, you can either download the repository as a ZIP file or clone it using Git:
 
 ```bash
-git clone https://github.com/your-username/essential-sass-partials.git
+git clone https://github.com/wjamesdevera/essential_sass_partials.git
 ```
 
 ## Usage
