@@ -1,1 +1,1 @@
-# essential_sass_partials
+# Essential Sass Partials
